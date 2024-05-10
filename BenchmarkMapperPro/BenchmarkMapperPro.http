@@ -1,0 +1,6 @@
+@BenchmarkMapperPro_HostAddress = http://localhost:5142
+
+GET {{BenchmarkMapperPro_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
